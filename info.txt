@@ -1,0 +1,9 @@
+voting-app-pod
+
+result-app-pod
+
+worker-app-pod
+
+posgres-pod
+
+redis-pod
